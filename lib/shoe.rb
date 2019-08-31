@@ -45,4 +45,4 @@ class Shoe
     puts "makes the shoes's condition new!"
       end 
    end 
-    
+end    
