@@ -40,9 +40,8 @@ class Shoe
   end 
   
   def cobble
-    puts "Your shoe is as good as new!"
-  def initialize(shoe_condition)
-      self.condition = "new" put@shoe_condition = "new"
+      self.condition = "new" 
+      puts "Your shoe is as good as new!"
     end
   end    
 end 
