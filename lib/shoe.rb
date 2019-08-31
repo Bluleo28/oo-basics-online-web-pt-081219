@@ -40,8 +40,7 @@ class Shoe
   end 
   
   def cobble
-    puts "says that the shoe has been repaired" 
-    "makes the shoes's condition new"
+    puts "says that the shoe has been repaired" "makes the shoes's condition new"
       end 
    end 
     
