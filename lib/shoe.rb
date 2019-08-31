@@ -40,6 +40,8 @@ class Shoe
   end 
   
   def cobble
+    puts "says that the shoes has been repaired"
+  def condition=Shoe.new
     puts "makes the shoes's condition new!"
       end 
    end 
