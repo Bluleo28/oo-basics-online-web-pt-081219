@@ -41,8 +41,8 @@ class Shoe
   
   def cobble
     puts "Your shoe is as good as new!"
-  def condition ; Shoe.new
-    puts "makes the shoes's condition new!"
+  def initialize(brand)
+      @brand = brand
       end 
    end 
 end    
