@@ -41,10 +41,8 @@ class Shoe
   
   def cobble
     puts "Your shoe is as good as new!"
-  def shoe_condition=(new)
-      @shoe_condition = new
-      
-  def shoe_condition
-    @shoe_condition
+  def initialize(shoe_condition)
+      shoe_condition = new 
+      @shoe_condition = new 
   end
 end    
