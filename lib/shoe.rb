@@ -44,5 +44,6 @@ class Shoe
   def initialize(shoe_condition)
       shoe_condition = new 
       @shoe_condition = new 
-  end
-end    
+    end
+  end    
+end 
