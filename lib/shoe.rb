@@ -40,7 +40,7 @@ class Shoe
   end 
   
   def cobble
-    puts "says that the shoes has been repaired"
+    puts "Your shoe is as good as new!"
   def condition ; Shoe.new
     puts "makes the shoes's condition new!"
       end 
